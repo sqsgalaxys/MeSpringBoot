@@ -1,0 +1,21 @@
+#server.port=8888
+#spring.cloud.config.server.git.uri=
+#search-paths
+#C:\\Users\\sqsga\\Downloads\\meGitHub\\MeSpringBoot\\ConfigServer\\
+
+server:
+  port: 8888
+spring:
+  cloud:
+    config:
+      server:
+          git:
+            uri: https://github.com/sqsgalaxys/ConfigFolder/
+      label: master
+#
+#
+#            spring.cloud.config.server.git.searchPaths=respo
+#            spring.cloud.config.label=master
+#            spring.cloud.config.server.git.username=
+#            spring.cloud.config.server.git.password=
+

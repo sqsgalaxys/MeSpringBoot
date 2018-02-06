@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConfigFolder/ConfigFolder.iml" filepath="$PROJECT_DIR$/ConfigFolder/ConfigFolder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConfigServer/ConfigServer.iml" filepath="$PROJECT_DIR$/ConfigServer/ConfigServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeSpringBoot.iml" filepath="$PROJECT_DIR$/MeSpringBoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeSpringBootChildren00/MeSpringBootChildren00.iml" filepath="$PROJECT_DIR$/MeSpringBootChildren00/MeSpringBootChildren00.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Me_Test/Me_Test.iml" filepath="$PROJECT_DIR$/Me_Test/Me_Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cispringboot/cispringboot.iml" filepath="$PROJECT_DIR$/cispringboot/cispringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exampleService/exampleService.iml" filepath="$PROJECT_DIR$/exampleService/exampleService.iml" />
+    </modules>
+  </component>
+</project>

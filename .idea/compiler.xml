@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Me_Test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cispringboot" target="1.8" />
+      <module name="ConfigServer" target="1.8" />
+      <module name="exampleService" target="1.8" />
+      <module name="Me_Test" target="1.8" />
+      <module name="MeSpringBoot" target="1.8" />
+      <module name="MeSpringBootChildren00" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+spring:
+    data:
+        rest:
+            basePath: /api
+    datasource:
+        driverClassName: org.postgresql.Driver
+        platform: postgres
+        url: jdbc:${DATABASE_URL}
+    jpa:
+        database: POSTGRESQL
+        generate-ddl: true
+        hibernate:
+            ddl-auto: create-drop
+        show-sql: true
